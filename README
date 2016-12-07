@@ -1,0 +1,2 @@
+Arduino library designed to control stepper motors through a shift register supporting microstepping with pwm. 
+Based on elcojacob's ShiftPWM library (https://github.com/elcojacobs/ShiftPWM)
